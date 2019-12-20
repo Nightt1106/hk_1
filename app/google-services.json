@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322366656117",
+    "firebase_url": "https://hklogin1.firebaseio.com",
+    "project_id": "hklogin1",
+    "storage_bucket": "hklogin1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322366656117:android:cf5a1dc0af98134fb7723c",
+        "android_client_info": {
+          "package_name": "com.night.hk_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322366656117-0icbsvqjjrjktbhj822l8dfl2703nmc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.night.hk_1",
+            "certificate_hash": "d5a034719295327d4d2afc808868084bfc0e4b07"
+          }
+        },
+        {
+          "client_id": "322366656117-g8m7o8hat6mmdmsb14suu93j167ki94s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEFlZ4WOjfy4vr6iXWzCVlqY04Y1QPVag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322366656117-g8m7o8hat6mmdmsb14suu93j167ki94s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
